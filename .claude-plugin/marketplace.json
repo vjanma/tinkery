@@ -18,7 +18,7 @@
       },
       "homepage": "https://github.com/vjanma/video-to-prd",
       "repository": "https://github.com/vjanma/video-to-prd",
-      "license": "MIT",
+      "license": "Apache-2.0",
       "category": "productivity",
       "keywords": [
         "prd",
@@ -41,13 +41,55 @@
       },
       "homepage": "https://github.com/vjanma/compass",
       "repository": "https://github.com/vjanma/compass",
-      "license": "MIT",
+      "license": "Apache-2.0",
       "category": "productivity",
       "keywords": [
         "decision-making",
         "compass",
         "wrap",
         "premortem"
+      ]
+    },
+    {
+      "name": "branding",
+      "source": {
+        "source": "github",
+        "repo": "vjanma/branding"
+      },
+      "description": "Agency-grade naming and brand-identity workflow: multi-angle brainstorm, web validation, expert-panel scoring on a weighted rubric, then full brand directions and guidelines.",
+      "author": {
+        "name": "Vj Anma"
+      },
+      "homepage": "https://github.com/vjanma/branding",
+      "repository": "https://github.com/vjanma/branding",
+      "license": "Apache-2.0",
+      "category": "productivity",
+      "keywords": [
+        "branding",
+        "naming",
+        "brand-identity",
+        "marketing"
+      ]
+    },
+    {
+      "name": "storybrand",
+      "source": {
+        "source": "github",
+        "repo": "vjanma/storybrand"
+      },
+      "description": "Clarify a company's marketing message using Donald Miller's StoryBrand framework (SB7, StoryBrand 2.0): BrandScripts, one-liners, controlling ideas, and website/pitch audits.",
+      "author": {
+        "name": "Vj Anma"
+      },
+      "homepage": "https://github.com/vjanma/storybrand",
+      "repository": "https://github.com/vjanma/storybrand",
+      "license": "Apache-2.0",
+      "category": "productivity",
+      "keywords": [
+        "storybrand",
+        "messaging",
+        "marketing",
+        "brandscript"
       ]
     }
   ]
