@@ -28,6 +28,27 @@
         "youtube",
         "transcription"
       ]
+    },
+    {
+      "name": "compass",
+      "source": {
+        "source": "github",
+        "repo": "vjanma/compass"
+      },
+      "description": "Guide significant decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — an interactive walkthrough or a fillable worksheet.",
+      "author": {
+        "name": "Vj Anma"
+      },
+      "homepage": "https://github.com/vjanma/compass",
+      "repository": "https://github.com/vjanma/compass",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "decision-making",
+        "compass",
+        "wrap",
+        "premortem"
+      ]
     }
   ]
 }

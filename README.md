@@ -13,8 +13,7 @@ This repo is a **plugin marketplace**: add it once, then install any skill in th
 | Plugin | What it does | Install |
 |---|---|---|
 | [video-to-prd](https://github.com/vjanma/video-to-prd) | Turns a screen-recording video (any local format, or a YouTube link) into an implementation-ready PRD — scene-detection screenshots + audio transcription, analyzed together | `/plugin install video-to-prd@tinkery` |
-
-**Coming soon:** `compass` — a structured decision-making framework for working through big choices.
+| [compass](https://github.com/vjanma/compass) | Guides big decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — interactive walkthrough or fillable worksheet | `/plugin install compass@tinkery` |
 
 ## Updating
 
