@@ -4,7 +4,7 @@
     "name": "Vj Anma",
     "email": "vjanma@gmail.com"
   },
-  "description": "Vj Anma's tinkery — a personal workshop of Claude Code plugins: skills tinkered into existence, published for anyone to use.",
+  "description": "Vj Anma's tinkery \u2014 a personal workshop of Claude Code plugins: skills tinkered into existence, published for anyone to use.",
   "plugins": [
     {
       "name": "video-to-prd",
@@ -27,7 +27,8 @@
         "screen-recording",
         "youtube",
         "transcription"
-      ]
+      ],
+      "version": "1.1.0"
     },
     {
       "name": "compass",
@@ -35,7 +36,7 @@
         "source": "github",
         "repo": "vjanma/compass"
       },
-      "description": "Guide significant decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — an interactive walkthrough or a fillable worksheet.",
+      "description": "Guide significant decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) \u2014 an interactive walkthrough or a fillable worksheet.",
       "author": {
         "name": "Vj Anma"
       },
@@ -48,7 +49,8 @@
         "compass",
         "wrap",
         "premortem"
-      ]
+      ],
+      "version": "1.0.1"
     },
     {
       "name": "branding",
@@ -69,7 +71,8 @@
         "naming",
         "brand-identity",
         "marketing"
-      ]
+      ],
+      "version": "1.0.1"
     },
     {
       "name": "storybrand",
@@ -90,7 +93,8 @@
         "messaging",
         "marketing",
         "brandscript"
-      ]
+      ],
+      "version": "1.0.1"
     }
   ]
 }
