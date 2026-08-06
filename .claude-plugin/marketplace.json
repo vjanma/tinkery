@@ -31,6 +31,29 @@
       "version": "1.1.0"
     },
     {
+      "name": "overnight-build",
+      "source": {
+        "source": "github",
+        "repo": "vjanma/overnight-build"
+      },
+      "description": "Run an unattended multi-wave overnight build from a plan-of-record file — subagent delegation, per-wave commit gates, a running status log, sleep prevention, and an auto-resume safety net.",
+      "author": {
+        "name": "Vj Anma"
+      },
+      "homepage": "https://github.com/vjanma/overnight-build",
+      "repository": "https://github.com/vjanma/overnight-build",
+      "license": "Apache-2.0",
+      "category": "productivity",
+      "keywords": [
+        "overnight",
+        "unattended",
+        "autonomous",
+        "orchestration",
+        "subagents"
+      ],
+      "version": "1.0.0"
+    },
+    {
       "name": "compass",
       "source": {
         "source": "github",

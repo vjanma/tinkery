@@ -12,6 +12,7 @@ This repo is a **plugin marketplace**: add it once, then install any skill in th
 
 | Plugin | What it does | Install |
 |---|---|---|
+| [overnight-build](https://github.com/vjanma/overnight-build) | Runs an unattended multi-wave overnight build from a plan-of-record file — subagent delegation, per-wave commit gates, a running status log, and an auto-resume safety net | `/plugin install overnight-build@tinkery` |
 | [video-to-prd](https://github.com/vjanma/video-to-prd) | Turns a screen-recording video (any local format, or a YouTube link) into an implementation-ready PRD — scene-detection screenshots + audio transcription, analyzed together | `/plugin install video-to-prd@tinkery` |
 | [compass](https://github.com/vjanma/compass) | Guides big decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — interactive walkthrough or fillable worksheet | `/plugin install compass@tinkery` |
 | [branding](https://github.com/vjanma/branding) | Agency-grade naming + brand identity: 10-angle brainstorm, web validation, 7-expert panel with a weighted rubric, then full brand directions and guidelines | `/plugin install branding@tinkery` |
