@@ -1,0 +1,73 @@
+{
+  "name": "tinkery",
+  "interface": {
+    "displayName": "Tinkery"
+  },
+  "plugins": [
+    {
+      "name": "video-to-prd",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vjanma/video-to-prd.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "overnight-build",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vjanma/overnight-build.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "compass",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vjanma/compass.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "branding",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vjanma/branding.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "storybrand",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vjanma/storybrand.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
